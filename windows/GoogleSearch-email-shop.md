@@ -60,11 +60,3 @@ step 2: 再注册个gmail账号吧，非常方便，然后右上角登录chrome�
 
 step 3: Google Shop里面找个自己喜欢的chrome扩展程序吧。保证有你需要的一款。
 
-## 最后
-
-厚颜无耻求打赏呀！！！
-如果你觉得有效的话，多多支持一下。
-
-<img src="../resource/img/wechat-collection.jpg" />
-
-***最重要的是***，还想写个安卓端可以使用 `免费vpn` 访问 `Youtube` 的教程
